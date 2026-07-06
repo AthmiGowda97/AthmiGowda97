@@ -22,6 +22,8 @@
 - 🚀 Always curious to learn new technologies
 - 💬 Ask me about Java, JDBC, Spring Boot, HTML/CSS/JS, React, or MySQL
 
+---
+
  ## 🛠️ Tech Stack
 
 **Frontend:**  
@@ -35,9 +37,54 @@
 
 **Tools:**  
 <img src="https://skillicons.dev/icons?i=github,vscode,eclipse" height="40" />
-## 💻 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,java,mysql,github,vscode,eclipse" height="45" />
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🚀 Projects
+
+- 🛍️ **E-Commerce Website** – A responsive online shopping platform with product browsing and cart functionality.  
+  **Tech:** HTML5, CSS3, JavaScript, React.js
+
+- ✏️ **Edge Preserving Pencil Sketch Generation** – An image processing application that converts images into realistic pencil sketches while preserving edges using OpenCV.  
+  **Tech:** Python, OpenCV
+
+- 🌐 **Personal Portfolio** – A modern portfolio website showcasing my skills, projects, and contact information.  
+  **Tech:** HTML5, CSS3, JavaScript
+
+ ---
+  
+📫 Connect With Me
+
+💼 LinkedIn:https://www.linkedin.com/in/athmi-gowda/
+
+📧 Email: aathmika524@gmail.com
+
+---
+
+## 🏆 Certifications
+
+📜 **Java Full Stack Developer**  
+🏢 **Besant Technologies, Bangalore**
+
+📜 **Python Programming Internship**  
+🏢 **Aspire Innovations**
+
+---
+
+
+
+
+
+
+
 
 
 
